@@ -8,22 +8,22 @@
 ####################################################
 
 # Site settings
-title: "Doxy - Documentation Website"
+title: "GebsMods - Wiki"
 email: "themeix@gmail.com"
 description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+keywords: "gebsfish, gebsfishing, gebs fish, gebs fishing, gebs wiki"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll-doxy.netlify.app/"
+url: "https://gebsmods.com/"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
-facebook: "https://www.facebook.com"
+facebook: ""
 twitter: "https://www.twitter.com"
-instagram: "https://www.instagram.com"
+instagram: ""
 github: "https://www.github.com"
-linkedin: "https://www.linkedin.com"
-behance: "https://www.behance.com"
-reddit: "https://www.reddit.com"
-vimeo: "https://www.vimeo.com"
-dribble: "https://www.dribble.com"
+linkedin: ""
+behance: ""
+reddit: ""
+vimeo: ""
+dribble: ""
 youtube: "https://www.youtube.com"
 
 ## Theme Options
